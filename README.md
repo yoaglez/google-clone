@@ -4,7 +4,7 @@ Hello this is my first project a **google clone** interface
 
 En este proyecto utilizamos el editor de codigo **Visual Studio Code** y los lenguajes *HTML* y *CSS*
 
-###Elementos del proyecto
+### Elementos del proyecto
 <ol>
   <li>Menu de navegación</li>
   <li>Logo e input de busqueda</li>
